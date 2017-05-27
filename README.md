@@ -1,2 +1,6 @@
 # hello-world
 My first repository
+
+Hi Humans!
+I like Java and C++...
+It's a test change for hello-world, an i learn how to do it...
